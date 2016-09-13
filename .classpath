@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src/main"/>
+	<classpathentry kind="src" path="src/resorces"/>
+	<classpathentry kind="src" path="src/test"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/mysql-connector-java-5.1.33-bin.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/gson-2.2.2.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/struts2.5/commons-io-2.4.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="melibrary.com.genuitec.eclipse.j2eedt.core.MYECLIPSE_JAVAEE_5_CONTAINER"/>
+	<classpathentry kind="con" path="melibrary.com.genuitec.eclipse.hibernate.MYECLIPSE_HIBERNATE3_3_CORE"/>
+	<classpathentry kind="con" path="melibrary.com.genuitec.eclipse.hibernate.MYECLIPSE_HIBERNATE3_3_EXTRAS"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/struts2.5/asm-3.3.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/struts2.5/asm-commons-3.3.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/struts2.5/asm-tree-3.3.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/struts2.5/commons-beanutils-1.9.2.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/struts2.5/commons-digester-2.1.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/struts2.5/commons-fileupload-1.3.1.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/struts2.5/commons-lang-2.4.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/struts2.5/commons-lang3-3.4.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/struts2.5/commons-logging-1.1.3.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/struts2.5/freemarker-2.3.23.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/struts2.5/log4j-api-2.3.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/struts2.5/log4j-core-2.3.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/struts2.5/ognl-3.1.4.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/struts2.5/struts2-convention-plugin-2.5.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/struts2.5/struts2-core-2.5.jar" sourcepath="C:/Users/Preetam Kumar/Downloads/Compressed/Dist/struts-2.5/src"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/struts2.5/struts2-json-plugin-2.5.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/struts2.5/struts2-tiles-plugin-2.5.jar"/>
+	<classpathentry kind="output" path="WebRoot/WEB-INF/classes"/>
+</classpath>
